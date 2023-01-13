@@ -8,3 +8,14 @@ dance
 enter
 jump
 lie
+
+Actor
+Gold 
+Airport
+Painting
+Hair
+Pillow
+Pizza
+Planet
+Animal
+Guitar
