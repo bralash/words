@@ -1,0 +1,10 @@
+color
+cry
+cough
+complete
+drink 
+eat 
+dance
+enter
+jump
+lie
