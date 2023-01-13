@@ -19,3 +19,14 @@ Pizza
 Planet
 Animal
 Guitar
+
+adorable
+anxious
+arrogant
+bad
+black
+better
+attractive
+average
+beautiful
+ashamed 
